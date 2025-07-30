@@ -1,1 +1,1 @@
-# AIClassAssignments
+# AIClassAssignments repo for adding AI class assignments
